@@ -2,9 +2,9 @@ import './globals.css';
 
 export const metadata = {
   title: 'Pita Pro Assistant',
-  description: 'Assistant expert en pronostics sportifs',
+  description: "Assistant Apple of Fortune — Pita Pro",
   icons: {
-    icon: '/pita.svg',
+    icon: '/logo.jpeg',
   },
 };
 
