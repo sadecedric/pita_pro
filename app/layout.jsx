@@ -4,7 +4,7 @@ export const metadata = {
   title: 'Pita Pro Assistant',
   description: "Assistant Apple of Fortune — Pita Pro",
   icons: {
-    icon: '/logo.jpeg',
+    icon: '/apple.png',
   },
 };
 
